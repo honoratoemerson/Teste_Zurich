@@ -12,8 +12,8 @@ namespace Teste_Zurich.Infra.Data.Configuracao
     {
         public ConfiguracaoSeguro()
         {
-            HasKey(c => c.Id);
-            Property(c => c.Id).IsRequired();
+            HasKey(c => c.IdSeguro);
+            Property(c => c.IdSeguro).IsRequired();
             HasOptional(c => c.Segurado)
                 .WithRequired(c => c.Seguro);
             HasOptional(c => c.Veiculo)

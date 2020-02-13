@@ -12,8 +12,8 @@ namespace Teste_Zurich.Infra.Data.Configuracao
     {
         public ConfiguracaoSegurado()
         {
-            HasKey(c => c.Id);
-            Property(c => c.Id)
+            HasKey(c => c.IdSegurado);
+            Property(c => c.IdSegurado)
                 .IsRequired();
    
 

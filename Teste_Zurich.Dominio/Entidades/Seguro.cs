@@ -4,7 +4,8 @@ namespace Teste_Zurich.Dominio.Entidades
 {
     public class Seguro
     {
-        public int Id { get; set; }
+
+        public int IdSeguro { get; set; }
    
         public virtual Segurado Segurado { get; set; }
         public int IdSegurado { get; set; }

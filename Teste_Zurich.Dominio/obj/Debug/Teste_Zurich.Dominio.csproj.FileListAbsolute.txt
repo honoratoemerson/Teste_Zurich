@@ -3,3 +3,8 @@ C:\Users\Emerson Honorato\source\repos\Teste_Zurich\Teste_Zurich.Dominio\bin\Deb
 C:\Users\Emerson Honorato\source\repos\Teste_Zurich\Teste_Zurich.Dominio\obj\Debug\Teste_Zurich.Dominio.csprojAssemblyReference.cache
 C:\Users\Emerson Honorato\source\repos\Teste_Zurich\Teste_Zurich.Dominio\obj\Debug\Teste_Zurich.Dominio.dll
 C:\Users\Emerson Honorato\source\repos\Teste_Zurich\Teste_Zurich.Dominio\obj\Debug\Teste_Zurich.Dominio.pdb
+C:\Users\Emerson Honorato\Source\Repos\Teste_Zurich2\Teste_Zurich.Dominio\bin\Debug\Teste_Zurich.Dominio.dll
+C:\Users\Emerson Honorato\Source\Repos\Teste_Zurich2\Teste_Zurich.Dominio\bin\Debug\Teste_Zurich.Dominio.pdb
+C:\Users\Emerson Honorato\Source\Repos\Teste_Zurich2\Teste_Zurich.Dominio\obj\Debug\Teste_Zurich.Dominio.csprojAssemblyReference.cache
+C:\Users\Emerson Honorato\Source\Repos\Teste_Zurich2\Teste_Zurich.Dominio\obj\Debug\Teste_Zurich.Dominio.dll
+C:\Users\Emerson Honorato\Source\Repos\Teste_Zurich2\Teste_Zurich.Dominio\obj\Debug\Teste_Zurich.Dominio.pdb

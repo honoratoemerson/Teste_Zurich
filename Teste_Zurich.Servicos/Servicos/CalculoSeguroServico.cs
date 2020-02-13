@@ -40,6 +40,9 @@ namespace Teste_Zurich.Servicos.Servicos
             var premioPuro = CalcularPremioPuro(premioRisco);
             var premioComercial = CalcularPremioComercial(premioPuro);
 
+            _seguradoRepositorio.Add(segurado);
+            _veiculoRepositorio.Add(veiculo);
+
             var seguro = new Seguro()
             {
                 Segurado = segurado,
@@ -47,14 +50,6 @@ namespace Teste_Zurich.Servicos.Servicos
                 ValorSeguro = premioComercial,
 
             };
-
-            segurado.Seguro = seguro;
-            veiculo.Seguro = seguro;
-
-            _seguradoRepositorio.Add(segurado);
-            _veiculoRepositorio.Add(veiculo);
-
-     
             _seguroRepositorio.Add(seguro);
 
             return seguro;
